@@ -1,4 +1,4 @@
-![logo](https://github.com/shahajahanway/Shahajahanway/blob/main/%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Shahajahanway</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Learning AI & DSA | Open to Freelance & Internship Opportunities🚀</h3>
 
