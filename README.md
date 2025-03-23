@@ -1,6 +1,6 @@
 ![logo](https://github.com/shahajahanway/Shahajahanway/blob/main/%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shahajahanway</h1>
-<h3 align="center">Aspiring MERN Stack Developer | Learning AI & DSA | Open to Freelance & Internship Opportunities🚀</h3>
+<h3 align="center">Aspiring MERN Stack Developer | Learning AI & DSA | Open to Freelance & Internship Opportunities 🚀</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding time">
 
@@ -13,7 +13,7 @@
 - 📌 **All My Projects:** [View Here](http://itsedway.com/Project)  
 - 📝 **I Write Tech Blogs:** [Read My Articles](http://blog.itsedway.com)  
 - 📄 **Resume & Work Experience:** [Check Here](http://itsedway.com/resume)  
-- 📫 **Reach Me At:** shahajahan.9667@gmail.com  
+- 📫 **Reach Me At:** contact@shahajahan.in
 
 ---
 
@@ -33,27 +33,11 @@
 <a href="https://linkedin.com/in/shahajahanway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahajahanway" height="30" width="40" /></a>
 <a href="https://instagram.com/shahajahansheikhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahajahansheikhs" height="30" width="40" /></a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahajahanway&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahajahanway&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahajahanway&show_icons=true&theme=tokyonight&title_color=8A2BE2&text_color=8A2BE2&icon_color=8A2BE2&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahajahanway&theme=tokyonight&border=8A2BE2&background=0D1117&stroke=8A2BE2" />
 </p>
-
----
-
-### 🚀 Let's Build Something Amazing Together!  
-💬 **Got a project idea?** Message me!  
-📧 **Email:** contact@shahajahan.in  
-🌍 **Website:** [shahajahan](https://www.shahajahan.in)  
-
----
-
-🔥 **Upgraded Highlights:**  
-✅ **Better Formatting** with sections for easy readability  
-✅ **More Personal Branding** with engaging text  
-✅ **GitHub Stats & Badges** for more attraction  
-✅ **Better Call to Action (CTA)** to increase engagement  
-
-Let me know if you need further modifications! 🚀🔥  
