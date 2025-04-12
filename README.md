@@ -48,11 +48,3 @@
 🌍 **Website:** [shahajahan](https://www.shahajahan.in)  
 
 ---
-
-🔥 **Upgraded Highlights:**  
-✅ **Better Formatting** with sections for easy readability  
-✅ **More Personal Branding** with engaging text  
-✅ **GitHub Stats & Badges** for more attraction  
-✅ **Better Call to Action (CTA)** to increase engagement  
-
-Let me know if you need further modifications! 🚀🔥
