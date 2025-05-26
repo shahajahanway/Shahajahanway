@@ -8,9 +8,9 @@
 ## 🚀 About Me  
 - 🔭 **Currently Working on:** [Itsedway - Web Development Agency](https://www.itsedway.com)  
 - 🌱 **Learning:** Full Stack Development, Artificial Intelligence, and Data Structures & Algorithms  
-- 👨‍💻 **Portfolio:** [View My Projects](https://www.itsedway.com/projects)  
+- 👨‍💻 **Portfolio:** [View My Projects](https://www.itsedway.com/projects)
 - 📝 **Tech Blogs:** [Read My Articles](https://blog.itsedway.com)  
-- 📄 **Resume:** [Check My Experience]([https://www.itsedway.com/resume](https://itsedway.com/wp-content/uploads/2025/05/Shahajahan_Resume.pdf))  
+- 📄 **Resume:** [Check My Experience](https://itsedway.com/wp-content/uploads/2025/05/Shahajahan_Resume.pdf)
 - 📫 **Contact Me:** contact@shahajahan.in  
 - 💼 **Open to Opportunities:** Freelance projects, internships, or full-time roles in MERN or AI development!
 
