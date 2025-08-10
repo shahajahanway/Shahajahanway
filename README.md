@@ -15,27 +15,6 @@
 - 💼 **Open to Opportunities:** Freelance projects, internships, or full-time roles in MERN or AI development!
 
 ---
-
-## 💻 Projects  
-Here are some of my key projects showcasing my skills in MERN, AI, and more:
-
-| **Project** | **Description** | **Tech Stack** | **Link** |
-|-------------|-----------------|----------------|----------|
-| **Khatabook Clone** | A digital ledger app for small businesses to manage transactions. | React, Node.js, Express, MongoDB | [GitHub](#) |
-| **Blinkit Clone** | An e-commerce platform for grocery delivery with real-time tracking. | Next.js, Firebase, MongoDB | [GitHub](#) |
-| **YouTube Clone** | A video streaming platform with user authentication and video uploads. | React, Node.js, PostgreSQL | [GitHub](#) |
-| **Omegle Project** | A random video chat app with anonymous user pairing. | WebRTC, Node.js, Express | [GitHub](#) |
-| **Itsedway AI Interview** | An AI-powered mock interview platform for job seekers. | Python, TensorFlow, React, MongoDB | [GitHub](#) |
-| **Band Name Generator** | A fun tool to generate creative band names using randomization. | JavaScript, HTML, CSS | [GitHub](#) |
-| **Random Joke Generator** | A web app that fetches and displays random jokes from an API. | React, Axios, Tailwind CSS | [GitHub](#) |
-| **Password Generator** | A secure password generator with customizable options. | JavaScript, Node.js, React | [GitHub](#) |
-| **Password Checker** | A tool to evaluate password strength and suggest improvements. | Python, React, Express | [GitHub](#) |
-| **Video Tracker** | A system to track and analyze video watch history for users. | Node.js, MongoDB, Next.js | [GitHub](#) |
-
-> **Note**: Replace `#` with actual GitHub repository links for each project. If repositories are private or not yet created, consider hosting them publicly or linking to live demos.
-
----
-
 ## 💡 Tech Stack & Skills  
 
 | **Development** | **Web & CMS** | **DevOps & Cloud** | **Database** | **AI & Others** |
