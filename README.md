@@ -16,15 +16,6 @@
 
 ---
 
-
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahajahandev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahajahanway" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/shahajahan.dev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahajahansheikhs" height="30" width="40" /></a>
-</p>
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shahajahanway&show_icons=true&theme=tokyonight&title_color=8A2BE2&text_color=8A2BE2&icon_color=8A2BE2&bg_color=0D1117" />
